@@ -231,4 +231,4 @@ This repository serves as the official landing page for Icon Searcher. The softw
 **Get the most recent version of Icon Searcher today!**
 
 ---
-**Last updated:** 2026-09-16 21:09:27 UTC
+**Last updated:** 2026-09-17 00:04:57 UTC
